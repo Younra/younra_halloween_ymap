@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.064864" y="-0.04914103" z="-0.000282008" />
+      <bbMax x="0.067359" y="0.009191" z="0.194069" />
+      <bsCentre x="0.0012474991" y="-0.019975016" z="0.0968935" />
+      <bsRadius value="0.12109693" />
+      <hdTextureDist value="60.0"/>
+      <name>doll</name>
+      <textureDictionary>doll</textureDictionary>
+      <physicsDictionary>doll</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>doll</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>doll</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

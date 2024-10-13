@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.42142975" y="-0.2810253" z="-0.011241011" />
+      <bbMax x="0.42142975" y="0.2810253" z="0.002624542" />
+      <bsCentre x="0.0" y="0.0" z="-0.004308235" />
+      <bsRadius value="0.506583" />
+      <hdTextureDist value="60.0"/>
+      <name>ouija</name>
+      <textureDictionary>ouija</textureDictionary>
+      <physicsDictionary>ouija</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>ouija</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>ouija</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

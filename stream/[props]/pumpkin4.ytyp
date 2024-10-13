@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.5196364" y="-0.52870107" z="-0.46774024" />
+      <bbMax x="0.5238038" y="0.51473975" z="0.40683308" />
+      <bsCentre x="0.002083689" y="-0.0069806576" z="-0.030453578" />
+      <bsRadius value="0.8576734" />
+      <hdTextureDist value="60.0"/>
+      <name>pumpkin4</name>
+      <textureDictionary>pumpkin4</textureDictionary>
+      <physicsDictionary>pumpkin4</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>pumpkin4</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>pumpkin4</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
